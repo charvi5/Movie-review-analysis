@@ -33,7 +33,7 @@ To run the notebook, following list of packages must be installed in the system:
 - vaderSentiment
 
 To scrap data for movie reviews from the website, Chrome was used as the web browser. 
-- Download [latest Chromedriver] (https://sites.google.com/a/chromium.org/chromedriver/downloads) and transfer unzipped file to /usr/bin
+- Download [latest Chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) and transfer unzipped file to /usr/bin
 - Run ```from selenium import webdriver```
       ```driver = webdriver.Chrome()```
 
